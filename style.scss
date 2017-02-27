@@ -289,10 +289,8 @@ footer {
   text-align: center;
   transition: all ease .15s;
   i {
-     filter: grayscale(1);
-     &:hover, &:focus, &:active {
-        filter: none;
-     }
+  	font-size: 35px;
+  	margin: 0 1em;
   }
 }
 
