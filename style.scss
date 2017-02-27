@@ -300,15 +300,15 @@ footer {
 }
 
 .ion-social-dribbble-outline {
-  display: inline-block;
+  visibility: visible;
 }
 .ion-social-dribble.hover {
-  display: none;
+  visibility: hidden;
 }
 .ion-social-dribbble-outline:hover {
-  display: none;
+  visibility: hidden;
   .ion-social-dribble {
-    display: inline-block;
+    visibility: visible;
   }
 }
 
