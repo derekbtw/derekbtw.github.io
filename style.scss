@@ -290,9 +290,12 @@ footer {
   text-align: center;
   transition: all ease .15s;
   i, a i {
-	color: black;
-  	font-size: 35px;
-  	margin: 0 1em;
+    color: black;
+    font-size: 35px;
+    margin: 0 1em;
+    &:hover {
+      color: #ccc;
+    }
   }
 }
 
