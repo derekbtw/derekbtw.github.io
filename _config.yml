@@ -19,12 +19,12 @@ avatar: https://avatars3.githubusercontent.com/u/3450398?v=3&s=460
 footer-links:
   dribbble: derekbtw
   email: derekbtw@gmail.com
-  facebook: bytheway
-  flickr: derekbtw
-  github: barryclark/jekyll-now
+  facebook:
+  flickr:
+  github: derekbtw
   instagram: derekbtw
-  linkedin: derekbtw
-  pinterest: derekbtw
+  linkedin:
+  pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: derekbtw
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
