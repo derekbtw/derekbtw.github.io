@@ -8,7 +8,7 @@ I'm a web designer for Stephen Wade Auto Center. I'm a dad in real life and love
 
 ### More Information
 
-I've been a web developer for 7 years and love my job.
+I've been a web developer for 7 years and I love my job.
 
 ### Contact me
 
