@@ -277,7 +277,6 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: #eee;
   position: absolute;
@@ -289,6 +288,7 @@ footer {
   padding: 20px 0;
   text-align: center;
   transition: all ease .15s;
+  border-top: 1px solid #ddd;
   i, a i {
     color: #aaa;
     font-size: 35px;
@@ -296,19 +296,6 @@ footer {
     &:hover {
       color: #000;
     }
-  }
-}
-
-.ion-social-dribbble-outline {
-  visibility: visible;
-}
-.ion-social-dribble {
-  visibility: hidden;
-}
-.ion-social-dribbble-outline:hover {
-  visibility: hidden;
-  .ion-social-dribble {
-    visibility: visible;
   }
 }
 
