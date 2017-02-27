@@ -1,4 +1,10 @@
 #
+# Google Fonts
+#
+
+@import url('https://fonts.googleapis.com/css?family=Bitter|Lato:300,400');
+
+#
 # This file contains configuration flags to customize your site
 #
 
