@@ -205,6 +205,14 @@ img {
   letter-spacing: 1px;
 }
 
+a.site-name {
+	color: #000;
+	
+	&:hover {
+		color: #aaa;
+	}
+}
+
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
