@@ -292,7 +292,8 @@ footer {
   i, a i {
     color: #aaa;
     font-size: 35px;
-    margin: 0 1em;
+    margin: 0 .5em;
+    padding: .5em;
     &:hover {
       color: #000;
     }
