@@ -284,10 +284,12 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-  filter: grayscale(1);
   transition: all ease .15s;
-  &:hover, &:focus, &:active {
-    filter: none;
+  i {
+     filter: grayscale(1);
+     &:hover, &:focus, &:active {
+        filter: none;
+     }
   }
 }
 
