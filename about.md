@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a web designer for Stephen Wade Auto Center. I'm a dad in real life and love minimalism.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've been a web developer for 7 years and love my job.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[derekbtw@gmail.com](mailto:derekbtw@gmail.com)
