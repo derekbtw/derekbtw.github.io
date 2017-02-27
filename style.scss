@@ -74,9 +74,10 @@ p {
 a {
   color: $blue;
   text-decoration: none;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -233,6 +234,10 @@ nav {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+		
+    &:hover {
+	  	text-decoration: none;
+		}
 
     @include mobile {
       margin: 0 10px;
@@ -289,6 +294,7 @@ footer {
   text-align: center;
   transition: all ease .15s;
   border-top: 1px solid #ddd;
+	
   i, a i {
     color: #aaa;
     font-size: 35px;
@@ -297,6 +303,7 @@ footer {
     transition: color ease-in-out .15s;
     &:hover {
       color: #000;
+      text-decoration: none;
     }
   }
 }
